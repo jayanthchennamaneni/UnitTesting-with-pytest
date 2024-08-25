@@ -22,7 +22,6 @@ This is a simple Python project that implements a `ShoppingCart` class. The proj
     │   └── shopping_cart.py        # Implementation of the ShoppingCart class
     ├── tests/
     │   └── test_shopping_cart.py   # Unit tests for the ShoppingCart class
-    ├── venv/                       # Virtual environment directory (not included in Git)
     ├── .gitignore                  # Git ignore file to exclude unnecessary files from version control
     ├── README.md                   # Project documentation
     └── requirements.txt            # List of Python dependencies
