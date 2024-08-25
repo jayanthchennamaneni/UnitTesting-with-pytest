@@ -1,10 +1,8 @@
 # UnitTesting-with-pytest
 
-UnitTesting:
-
-Automated tests(usually functions) that we can write and run to check if our source code is working as intended.
-
 This is a simple Python project that implements a `ShoppingCart` class. The project includes unit tests written with Pytest to ensure the functionality of the shopping cart.
+
+UnitTesting: Automated tests(usually functions) that we can write and run to check if our source code is working as intended.
 
 
 ## Getting Started
@@ -53,5 +51,6 @@ This is a simple Python project that implements a `ShoppingCart` class. The proj
 To run the unit tests, use the following command:
 
     ```bash
-    pytest test_shopping_cart.py
+    pytest tests/
     ```
+This command will discover and execute all the test cases in the tests/ directory.
